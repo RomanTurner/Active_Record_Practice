@@ -1,3 +1,6 @@
 [submodule "AR_Queries"]
 	path = AR_Queries
 	url = https://github.com/RomanTurner/AR_Queries.git
+[submodule "https:/github.com/RomanTurner/Rails_Guide"]
+	path = https:/github.com/RomanTurner/Rails_Guide
+	url = https://github.com/RomanTurner/Active_Record_Practice.git
